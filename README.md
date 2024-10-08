@@ -12,7 +12,7 @@
  
  🔭 **Corpuar**
  
- 🌱 **Docker, Supabase, AWS**
+ 🌱 **Docker, Supabase, Heroku**
 
 ⚡ 
 
