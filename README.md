@@ -36,8 +36,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github," />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,mongodb,c,java,nextjs,mysql,flask" />
- <br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,mongodb,c,java,nextjs,mysql,flask" /> <br>
 </div>
 
 <br/>
@@ -51,7 +50,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ayman-Maaroufi&theme=react&hide_border=true&locale=fr)](https://git.io/streak-stats)
 
-  <img width=325 align="center" src="https://github-readme-stats-Ayman-Maaroufi.vercel.app/api/top-langs/?username=Ayman-Maaroufi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayman-Maaroufi)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <br/><br/>
