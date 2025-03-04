@@ -12,7 +12,7 @@
  
  🔭 **Ayman Maaroufi**
  
- 🌱 **,Github - Docker - Supabase - Heroku**
+ 🌱 **Github - Docker - Supabase - Heroku**
 
 ⚡ 
 
