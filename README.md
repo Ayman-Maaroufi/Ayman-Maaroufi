@@ -22,10 +22,10 @@
   <a href="mailto:aymanmaaroufi.pro@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="" target="[_blank](https://www.linkedin.com/in/ayman-maaroufi)">
+  <a href="https://www.linkedin.com/in/ayman-maaroufi" target="[_blank](https://www.linkedin.com/in/ayman-maaroufi)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="" target="[_blank](aymanmaaroufi.com)">
+  <a href="aymanmaaroufi.com" target="[_blank](aymanmaaroufi.com)">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
